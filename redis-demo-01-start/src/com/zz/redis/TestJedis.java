@@ -7,7 +7,7 @@ import java.util.Set;
 import org.junit.Test;
 
 import redis.clients.jedis.Jedis;
-
+//测试类
 public class TestJedis {
 	@SuppressWarnings("resource")
 	@Test
